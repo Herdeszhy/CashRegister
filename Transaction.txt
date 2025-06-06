@@ -1,12 +1,22 @@
-
 --------------  Transaction Receipt  -------------
-Date and Time: 2025-06-06 16:10:56
+Date and Time: 2025-06-06 19:24:19
 Cashier: Harold
-Customer: Halords
-Pineapple | Qty: 4 | Price: 200.0 | Total: 800.0
-Apple | Qty: 6 | Price: 70.0 | Total: 420.0
-Grapes | Qty: 20 | Price: 100.0 | Total: 2000.0
-Total : 3220.0
-Payment: 3400.0
-Change: 180.0
+Customer: Lordss
+Apple | Qty: 3 | Price: 45.0 | Total: 135.0
+Banana | Qty: 4 | Price: 56.0 | Total: 224.0
+Grapes | Qty: 4 | Price: 66.0 | Total: 264.0
+Total : 623.0
+Payment: 650.0
+Change: 27.0
+--------------------------------------------------
+--------------  Transaction Receipt  -------------
+Date and Time: 2025-06-06 19:26:22
+Cashier: Harold
+Customer: Haroldss
+Laptop | Qty: 2 | Price: 10000.0 | Total: 20000.0
+Gaming mouse | Qty: 1 | Price: 5000.0 | Total: 5000.0
+Keyboard | Qty: 1 | Price: 3500.0 | Total: 3500.0
+Total : 28500.0
+Payment: 30000.0
+Change: 1500.0
 --------------------------------------------------
