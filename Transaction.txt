@@ -1,0 +1,12 @@
+
+--------------  Transaction Receipt  -------------
+Date and Time: 2025-06-06 16:10:56
+Cashier: Harold
+Customer: Halords
+Pineapple | Qty: 4 | Price: 200.0 | Total: 800.0
+Apple | Qty: 6 | Price: 70.0 | Total: 420.0
+Grapes | Qty: 20 | Price: 100.0 | Total: 2000.0
+Total : 3220.0
+Payment: 3400.0
+Change: 180.0
+--------------------------------------------------
